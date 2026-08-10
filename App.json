@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "perfection",
+      "url": "https://perfectionacademy.classx.co.in/",
+      "image": "https://i.ibb.co/zTFgd1XJ/ic-launcher.jpg",
+      "enabled": true
+    },
+    {
+      "name": "Winners",
+      "url": "https://example.com/",
+      "image": "winners.png",
+      "enabled": false
+    }
+  ]
+}
