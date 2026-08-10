@@ -1,0 +1,6 @@
+{
+  "approvedDevices": [],
+  "blockedDevices": [],
+  "approvalMessage": "Your device is waiting for approval.",
+  "blockedMessage": "Your device has been blocked."
+}
