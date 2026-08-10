@@ -17,6 +17,12 @@
       "url": "https://rojgarwithankit.co.in/",
       "image": "https://i.ibb.co/FL8ghSWJ/ic-launcher.jpg",
       "enabled": true
+    },
+    {
+      "name": "Selection way",
+      "url": "https://mehgaonway.netlify.app/",
+      "image": "https://i.ibb.co/Dg4bKBkB/logo.png",
+      "enabled": true
     }
   ]
 }
