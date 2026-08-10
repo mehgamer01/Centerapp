@@ -1,5 +1,7 @@
 {
-  "approvedDevices": ["3371eeb5a69ab2b1"],
+  "approvedDevices": [
+    "3371eeb5a69ab2b1"
+  ],
   "blockedDevices": [],
   "approvalMessage": "Your device is waiting for approval.",
   "blockedMessage": "Your device has been blocked."
