@@ -1,7 +1,8 @@
 {
   "approvedDevices": [
     "3371eeb5a69ab2b1",
-    "e64843c5697d089a"
+    "e64843c5697d089a",
+    "09a223128f514495"
   ],
   "blockedDevices": [],
   "approvalMessage": "Your device is waiting for approval.",
