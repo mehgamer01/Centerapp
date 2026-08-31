@@ -34,7 +34,7 @@
       "name": "Vidyagram",
       "url": "https://vidyagram.online/purchases?type=10",
       "image": "https://i.ibb.co/9mvfM4Hr/images.png",
-      "enabled": true
+      "enabled": false
     }
   ]
 }
