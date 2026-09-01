@@ -6,10 +6,11 @@
     "3372a0f13ddae7f6",
     "534c09889e7c6c7e",
     "38b3188ed6f6565b",
-    "a01c13c43c958300",
+    "a01c13c43c958300"
+  ],
+  "blockedDevices": [
     "eaa80a4893c176f9"
   ],
-  "blockedDevices": [],
   "approvalMessage": "Your device is waiting for approval.",
   "blockedMessage": "Your Free plan is expired today.🙏🙏please buy this app from admin in 200 rs only 🙏🙏"
 }
