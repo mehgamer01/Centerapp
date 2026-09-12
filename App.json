@@ -41,6 +41,12 @@
       "url": "https://chatgroup12.netlify.app/",
       "image": "https://i.ibb.co/Y7VBRymt/images-3.jpg",
       "enabled": true
+    },
+    {
+      "name": "UC live rani mam",
+      "url": "https://uclive.org/",
+      "image": "https://i.ibb.co/xKY5PRPV/images-3.jpg",
+      "enabled": true
     }
   ]
 }
