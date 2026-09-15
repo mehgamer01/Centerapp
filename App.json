@@ -47,6 +47,12 @@
       "url": "https://uclive.org/",
       "image": "https://i.ibb.co/xKY5PRPV/images-3.jpg",
       "enabled": true
+    },
+    {
+      "name": "Army study",
+      "url": "https://app.armystudy.in/",
+      "image": "https://i.ibb.co/5xXfZFLT/download.png",
+      "enabled": true
     }
   ]
 }
