@@ -53,6 +53,12 @@
       "url": "https://app.armystudy.in/",
       "image": "https://i.ibb.co/5xXfZFLT/download.png",
       "enabled": true
+    },
+    {
+      "name": "Parmar academy",
+      "url": "https://parmaracademy.in/",
+      "image": "https://i.ibb.co/pjT50vFY/images-4.jpg",
+      "enabled": true
     }
   ]
 }
