@@ -59,6 +59,12 @@
       "url": "https://parmaracademy.in/",
       "image": "https://i.ibb.co/pjT50vFY/images-4.jpg",
       "enabled": true
+    },
+    {
+      "name": "Rg vikramjeet",
+      "url": "https://rankersgurukul.com/",
+      "image": "https://i.ibb.co/5h9kdYXH/download-1.png",
+      "enabled": true
     }
   ]
 }
