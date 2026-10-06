@@ -10,7 +10,7 @@
       "name": "Winners",
       "url": "https://live.winnersinstitute.in/",
       "image": "https://i.ibb.co/VYSdz4mc/ic-launcher.jpg",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "RWA",
@@ -22,7 +22,7 @@
       "name": "Selection way",
       "url": "strong-entremet-e3d5a3.netlify.app",
       "image": "https://i.ibb.co/Dg4bKBkB/logo.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Jamilsirscience",
