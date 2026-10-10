@@ -65,6 +65,12 @@
       "url": "https://rankersgurukul.com/",
       "image": "https://i.ibb.co/5h9kdYXH/download-1.png",
       "enabled": false
+    },
+    {
+      "name": "RWA PAID test",
+      "url": "rwamock.vercel.app",
+      "image": "https://i.ibb.co/FL8ghSWJ/ic-launcher.jpg",
+      "enabled": true
     }
   ]
 }
