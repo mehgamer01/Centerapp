@@ -6,7 +6,6 @@
     "3372a0f13ddae7f6",
     "534c09889e7c6c7e",
     "38b3188ed6f6565b",
-    "a01c13c43c958300",
     "eaa80a4893c176f9",
     "b601faeada698243",
     "68be3fa89babf5fd",
@@ -29,7 +28,9 @@
     "5338f041881231de",
     "ec4b50cbb70a8ad1"
   ],
-  "blockedDevices": [],
+  "blockedDevices": [
+    "a01c13c43c958300"
+  ],
   "approvalMessage": "🙏🙏please buy this app from admin in 200 rs only 🙏🙏",
-  "blockedMessage": "Your Free plan is expired today.🙏🙏please buy this app from admin in 200 rs only 🙏🙏"
+  "blockedMessage": "Please wait .............................🙏🙏🙏🙏"
 }
