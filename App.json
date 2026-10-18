@@ -34,13 +34,13 @@
       "name": "Vidyagram",
       "url": "https://roaring-speculoos-8c2d93.netlify.app/",
       "image": "https://i.ibb.co/9mvfM4Hr/images.png",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "CHAT ROOM",
       "url": "https://chatgroup12.netlify.app/",
       "image": "https://i.ibb.co/Y7VBRymt/images-3.jpg",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "UC live rani mam",
