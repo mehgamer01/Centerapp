@@ -4,7 +4,7 @@
       "name": "RWA PAID test",
       "url": "rwamock.vercel.app",
       "image": "https://i.ibb.co/FL8ghSWJ/ic-launcher.jpg",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Perfection",
