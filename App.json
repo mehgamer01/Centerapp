@@ -1,6 +1,12 @@
 {
   "apps": [
     {
+      "name": "RWA PAID test",
+      "url": "rwamock.vercel.app",
+      "image": "https://i.ibb.co/FL8ghSWJ/ic-launcher.jpg",
+      "enabled": false
+    },
+    {
       "name": "Perfection",
       "url": "https://perfectionacademy.classx.co.in/",
       "image": "https://i.ibb.co/zTFgd1XJ/ic-launcher.jpg",
@@ -65,12 +71,6 @@
       "url": "https://rankersgurukul.com/",
       "image": "https://i.ibb.co/5h9kdYXH/download-1.png",
       "enabled": true
-    },
-    {
-      "name": "RWA PAID test",
-      "url": "rwamock.vercel.app",
-      "image": "https://i.ibb.co/FL8ghSWJ/ic-launcher.jpg",
-      "enabled": false
     }
   ]
 }
