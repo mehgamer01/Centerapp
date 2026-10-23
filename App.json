@@ -1,8 +1,8 @@
 {
   "apps": [
     {
-      "name": "RWA PAID test",
-      "url": "rwamock.vercel.app",
+      "name": "MP POLICE All apps test",
+      "url": "https://mocktestrwa.netlify.app/",
       "image": "https://i.ibb.co/FL8ghSWJ/ic-launcher.jpg",
       "enabled": true
     },
